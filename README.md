@@ -1,6 +1,6 @@
-# Resume Highlighter
+# Nex Resume Highlighter
 
-Resume Highlighter is an automated solution designed to help both candidates and recruiters efficiently identify key information in resumes by highlighting relevant parts based on specific focus areas or skills.
+NEX Resume Highlighter is an automated solution designed to help both candidates and recruiters efficiently identify key information in resumes by highlighting relevant parts based on specific focus areas or skills.
 
 ## Table of Contents
 - [Problem Statement](#problem-statement)
