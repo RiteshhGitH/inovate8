@@ -49,6 +49,12 @@ Contributions to Resume Highlighter are welcome! If you have suggestions for imp
 ## Images 
 
 <img src="/images/img1.jpeg"> </img>
+<br></br>
+<img src="/images/img2.jpeg"> </img>
+<br></br>
+<img src="/images/img3.jpeg"> </img>
+<br></br>
+<img src="/images/img4.jpeg"> </img>
 
 ## License
 
