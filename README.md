@@ -46,4 +46,6 @@ Contributions to Resume Highlighter are welcome! If you have suggestions for imp
 
 ## License
 
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
 This project is licensed under the [MIT License](LICENSE).
