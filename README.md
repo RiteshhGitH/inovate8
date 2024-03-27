@@ -48,7 +48,7 @@ Contributions to Resume Highlighter are welcome! If you have suggestions for imp
 
 ## Images 
 
-<img src="inovate8/images/img1"> </img>
+<img src="inovate8/images/img1.jpeg"> </img>
 
 ## License
 
