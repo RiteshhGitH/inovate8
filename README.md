@@ -38,7 +38,7 @@ To use Resume Highlighter:
 1. Clone the repository to your local machine.
 2. Open the notebook in jypter notebook
 3. Installl and check all the dependencies
-4. Add the test resumes in json format in colab
+4. Add the test resumes in json format in jypter notebook
 5. Import the dataset and run the code
 
 
