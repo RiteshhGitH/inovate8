@@ -46,7 +46,7 @@ To use Resume Highlighter:
 
 Contributions to Resume Highlighter are welcome! If you have suggestions for improvements, bug fixes, or new features, please open an issue or submit a pull request. For major changes, please discuss them in advance with the maintainers.
 
-## Images 
+## Images 🌄
 
 <img src="/images/img1.jpeg"> </img>
 <br></br>
