@@ -46,6 +46,10 @@ To use Resume Highlighter:
 
 Contributions to Resume Highlighter are welcome! If you have suggestions for improvements, bug fixes, or new features, please open an issue or submit a pull request. For major changes, please discuss them in advance with the maintainers.
 
+## Images 
+
+<img src="./images/img1"> </img>
+
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
