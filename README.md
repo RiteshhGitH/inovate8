@@ -1,4 +1,4 @@
-# Nex Resume Highlighter
+# Nex Resume Highlighter [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]
 
 NEX Resume Highlighter is an automated solution designed to help both candidates and recruiters efficiently identify key information in resumes by highlighting relevant parts based on specific focus areas or skills.
 
@@ -11,7 +11,7 @@ NEX Resume Highlighter is an automated solution designed to help both candidates
 - [Contributing](#contributing)
 - [License](#license)
 
-## Problem Statement
+## Problem Statement 🚀🚀
 
 In today’s competitive job market, candidates often need to highlight specific keywords and experiences on their resumes to stand out to potential employers. However, manually identifying and emphasizing these keywords can be time-consuming and prone to bias. Even recruiters face challenges in quickly pinpointing specific details in resumes. The problem statement for this project is to develop an automated solution that highlights relevant parts of a resume based on given focus areas, allowing both candidates and recruiters to easily identify key information.
 
